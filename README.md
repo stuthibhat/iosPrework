@@ -16,13 +16,12 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/384e1930ed1541588661c9ba98f0b69c">
+    <a href="https://www.loom.com/share/58d709f2eb854fbd88f24090500a30a4">
     </a>
-    <a href="https://www.loom.com/share/384e1930ed1541588661c9ba98f0b69c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/384e1930ed1541588661c9ba98f0b69c-008b917109ea4a78-full-play.gif">
+    <a href="https://www.loom.com/share/58d709f2eb854fbd88f24090500a30a4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/58d709f2eb854fbd88f24090500a30a4-e5dd1a47a90206b2-full-play.gif">
     </a>
   </div>
-
 ## App Brainstorming (Step 4)
 TikTok:
 - Fun and creative tools for making videos.
